@@ -4,6 +4,8 @@ http://territorialidadeterritoriality.blogspot.com/
 https://arteemrede.blogspot.com/
 http://webarte.bienaldecuritiba.com.br/
 https://www.ufrgs.br/conectartbr/
+http://netartemolotov.blogspot.com/
+http://videoarteanimacoes.blogspot.com/
 
 
 Artists Studio:
