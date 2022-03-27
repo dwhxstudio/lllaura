@@ -1,11 +1,11 @@
 # lllaura
 Research:
-http://territorialidadeterritoriality.blogspot.com/
+https://territorialidadeterritoriality.blogspot.com/
 https://arteemrede.blogspot.com/
-http://webarte.bienaldecuritiba.com.br/
+https://webarte.bienaldecuritiba.com.br/
 https://www.ufrgs.br/conectartbr/
-http://netartemolotov.blogspot.com/
-http://videoarteanimacoes.blogspot.com/
+https://netartemolotov.blogspot.com/
+https://videoarteanimacoes.blogspot.com/
 
 
 Artists Studio:
