@@ -19,12 +19,12 @@ My idea of studio also changed with my practice and vice-versa. I started making
 I see studio as a place which is very flexible and that should be flexible in favour of your practice. A dynamic place, for ideas to be discussed, to happen, to be cooked and fermented. A place for reflection, pauses and exhibitions.
 Because of this, I think it's always interesting to have present in an online studio some links or images to references, be it artistic, symbolic or theoretical. 
 
-Research:
- https://www.ufrgs.br/propesq1/propesq/territorialidade-e-subjetividade/ 
-https://www.lume.ufrgs.br/handle/10183/50227 
+Research: 
+
 https://territorialidadeterritoriality.blogspot.com/ 
+
 https://arteemrede.blogspot.com/
+
  https://webarte.bienaldecuritiba.com.br/ 
+ 
 https://www.ufrgs.br/conectartbr/
- https://netartemolotov.blogspot.com/
- https://videoarteanimacoes.blogspot.com/
