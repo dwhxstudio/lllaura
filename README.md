@@ -2,15 +2,12 @@
 
 ## Artists Studio:
 
-Cory Arcangel
+-Cory Arcangel
 [are.na](https://www.are.na/cory-arcangel)
 [rhizome](https://conifer.rhizome.org/cory_arcangel/coryarcangelcom/20211205113448/https://coryarcangel.com/)
-
-[Travis Hallenbeck](https://travishallenbeck.tumblr.com)
-
-[Petra Cortright](https://www.petracortright.com)
-
-[Nasty Nets](https://anthology.rhizome.org/nasty-nets)
+-[Travis Hallenbeck](https://travishallenbeck.tumblr.com)
+-[Petra Cortright](https://www.petracortright.com)
+-[Nasty Nets](https://anthology.rhizome.org/nasty-nets)
 
 ## What is a studio?
 
