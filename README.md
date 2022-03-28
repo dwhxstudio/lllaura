@@ -1,5 +1,7 @@
 # lllaura
 Research:
+https://www.ufrgs.br/propesq1/propesq/territorialidade-e-subjetividade/
+https://www.lume.ufrgs.br/handle/10183/50227
 https://territorialidadeterritoriality.blogspot.com/
 https://arteemrede.blogspot.com/
 https://webarte.bienaldecuritiba.com.br/
