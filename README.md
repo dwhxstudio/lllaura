@@ -3,7 +3,7 @@
 Artists Studio:
 
 https://www.are.na/cory-arcangel
-https://coryarcangel.com/
+https://conifer.rhizome.org/cory_arcangel/coryarcangelcom/20211205113448/https://coryarcangel.com/
 
 https://travishallenbeck.tumblr.com
 
