@@ -19,11 +19,9 @@ Because of this, I think it's always interesting to have present in an online st
 
 ## Research participation on webart: 
 
-[Research Group Territoriality and Subjectivity: Cartography and New Media](https://territorialidadeterritoriality.blogspot.com/)  webart documentation
-
-[Arte em rede](https://arteemrede.blogspot.com/): essays, references, personal research
-
-[Conectartbr](https://www.ufrgs.br/conectartbr/): current updated website from the research group  
-[Webarte Bienal de Curitiba](https://webarte.bienaldecuritiba.com.br/): web art curatorship from M.a. Bulhoes 
+- [Research Group Territoriality and Subjectivity: Cartography and New Media](https://territorialidadeterritoriality.blogspot.com/)  webart documentation
+- [Arte em rede](https://arteemrede.blogspot.com/): essays, references, personal research
+- [Conectartbr](https://www.ufrgs.br/conectartbr/): current updated website from the research group  
+- [Webarte Bienal de Curitiba](https://webarte.bienaldecuritiba.com.br/): web art curatorship from M.a. Bulhoes 
  
 
