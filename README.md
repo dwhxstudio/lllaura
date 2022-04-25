@@ -24,4 +24,10 @@ Because of this, I think it's always interesting to have present in an online st
 - [Conectartbr](https://www.ufrgs.br/conectartbr/): current updated website from the research group  
 - [Webarte Bienal de Curitiba](https://webarte.bienaldecuritiba.com.br/): web art curatorship from M.a. Bulhoes 
  
+### Final Assignment: 
+[////////Proto-Studio////////](https://lllaura3.github.io/studio/index.html) 
 
+Named [Proto](https://en.wiktionary.org/wiki/proto)-Studio as a working title, because the website is in it's earliest development, a proto-type.
+
+- current: https://lllaura3.github.io/studio/index.html
+- previous: https://dwhxstudio.github.io/lllaura/
