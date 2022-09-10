@@ -7,6 +7,9 @@
     <title>Document</title>
 </head>
 <style> 
+* {
+  box-sizing: border-box;
+}
     body
 
     
@@ -39,17 +42,11 @@
               text-decoration: underline;
            
             }
-            .container{
-              max-width: 800px;
-              border: 1px solid rgb(0, 0, 0);
-              color: rgb(255, 255, 255);
-              margin: auto;
-              padding: 100px,200px,200px,200px;
-              background-color: rgb(0, 0, 0);
-
-            }
+  
             .column {
   float: left;
+  padding 10px;
+  height: 300px;
 }
 
 .left, .right {
@@ -59,12 +56,17 @@
 .middle {
   width: 50%;
 }
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
         
             
             </style>
 <body>
     <div class="row">
-        <div class="column"><p>Experimental project inspired in the idea of feedback, 
+        <div class="column"><h1>about</h1><p>Experimental project inspired in the idea of feedback, 
             by placing the scanner lens in front of the computer screen, 
             first at the user interface of the software that visualizes 
             what is being scanned, then while a video is shown on the screen. 
