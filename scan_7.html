@@ -4,7 +4,7 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>scan_7</title>
+    <title>scan 7</title>
   </head>
 
   <style>
@@ -19,9 +19,11 @@
     }
 
     a:link {
-      color: #009600a1;
-      background-color: rgb(160, 160, 160);
-      text-decoration: none;
+        top: 0px;
+      padding: 2px;
+      border: 1px solid rgb(94, 94, 94);
+      background-color: black;
+      color: rgb(255, 255, 255);
     }
 
     a:visited {
@@ -43,21 +45,42 @@
     }
     
     .audio-control {
-      
-      left: 10px;
+
       top: 0px;
-      padding: 2px;
+      width: 50px;
+      height: 50px;
+      padding: 10px;
       border: 1px solid rgb(94, 94, 94);
-      background-color: black;
-      color: rgb(255, 255, 255);
+      background-image: url('hearme.jpg');
+      
+      /*background-image: <img src="hear.jpg" width="100" height="100" alt="¿">
+      
+      background-color: black;*/
+      color: rgb(211, 210, 210);
     } 
+    .audio-control:hover{ background-image: url('sound3.jpg');
+    width: 100%;
+    border: 1px solid rgb(0, 0, 0);}
+    /*button {
+            
+            height: 200px;
+            border: 0;
+            cursor: pointer;
+            font-size: 2rem;
+        }
+          
+        button:hover {
+            background-image: url(
+'https://media.geeksforgeeks.org/wp-content/uploads/20190314004249/sample-image2.png');
+            background-size: cover;
+        }*/
  
   </style>
 
   <body>
     
-
-    <button id="audio-control" class="audio-control">mute/unmute</button>
+    <center>
+    <button id="audio-control" class="audio-control" title="click here to MUTE and UNMUTE"></button>
 
     <video id="myVideo" muted autoplay width="100%" height="100%">
       <source src="7.mp4" type="video/mp4" />
@@ -67,13 +90,13 @@
     
     <p>
       .<br />
-      <center>
+      
      <!-- <a href="./scan_3.html">  >>>Next Scan>>> </a>
     </p>
       <br />-->
      
         <a href="./aboutscan.html"> //About scanstudies//</a>
-        <br />
+        <br><br>
         <a href="./index.html"> //index// </a>
       </center>
     </p>
