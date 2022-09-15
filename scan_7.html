@@ -41,9 +41,10 @@
       color: rgb(255, 58, 58);
       background-color: transparent;
       text-decoration: underline;
+      color: rgb(211, 210, 210);
     }
     
-    .audio-control {
+    /*.audio-control {
       padding:0px;
       margin-left: 50px;
       margin-bottom: 10px;
@@ -53,14 +54,27 @@
       border: 1px solid rgb(0, 0, 0);
       background-image: url('hearing.jpg');
       
-      /*background-image: <img src="hear.jpg" width="100" height="100" alt="¿">
+      background-image: <img src="hear.jpg" width="100" height="100" alt="¿">
       
-      background-color: black;*/
-      color: rgb(211, 210, 210);
+      background-color: black;
+      */
+    
+    .audio-control {
+      padding:0px;
+      margin-left: 60px;
+      margin-bottom: 10px;
+      top: 15px;
+      width: 80px;
+      height: 25px;
+      border: 1px solid rgb(106, 106, 106);
     } 
     .audio-control:hover{ background-image: url('sound3.jpg');
     width: 100%;
+    height: 50px;
+    margin-bottom: 0px;
+      top: 0px;
     margin-left: 0px;
+    border: 0px solid rgb(106, 106, 106);
     padding: 10px;}
     /*button {
             
@@ -81,7 +95,7 @@
   <body>
     
     
-    <button id="audio-control" class="audio-control" title="//  PRESS TO HEAR THE SOUND  //"></button>
+    <button id="audio-control" class="audio-control"title="listen">◀︎ ))))</button>
 
     <video id="myVideo" muted loop autoplay width="100%" height="100%">
       <source src="7.mp4" type="video/mp4" />
